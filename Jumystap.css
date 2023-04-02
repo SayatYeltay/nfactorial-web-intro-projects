@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.list-item {
+    list-style-type: none;
+    margin-right: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+                font-size: 14px;
+                line-height: 18px;
+}
+.text-jumystap {
+
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
+.button {
+    background-color: transparent;
+    border: none;
+    border-radius: 100px;
+    width: 102px;
+    height: 38px;
+    margin-top: 12px;
+    margin-right: 28px;
+    background: rgba(8, 30, 52, 0.12);
+
+}
+/* /How it Works? */
+.button2 {
+    background-color:#712FFF;
+    width: 144px;
+    height: 50px;
+    border-radius: 100px;
+    border: none;
+    color:#FFFFFF;
+    padding: 16px, 24px, 16px, 24px;
+}
+.content-texts {
+    font-style: normal;
+    color: #000000;
+}
+
+.button3 {
+    background-color:#712FFF;
+    width: 106px;
+    height: 50px;
+    border-radius: 100px;
+    border: none;
+    color:#FFFFFF;
+    padding: 16px, 24px, 16px, 24px; 
+}
+.button4 {
+    background-color:#712FFF;
+    width: 114px;
+    height: 50px;
+    border-radius: 100px;
+    border: none;
+    color:#FFFFFF;
+    padding: 16px, 24px, 16px, 16px;
+}
